@@ -7,12 +7,12 @@ public class Greeting {
     
     public void printDummy()
     {
-        System.out.println("JAVA POC---> DUMMY 111133333311");
+        System.out.println("METHOD STRING UPDATE 1");
     }
 
     public static void main(String[] args) {
         Greeting greeting = new Greeting();
         greeting.printDummy();
-        System.out.println("JAVA POC---> HELLO WORLD 123333333");
+        System.out.println("JAVA POC---> HELLO WORLD 1");
     }
 }
